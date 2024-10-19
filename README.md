@@ -30,7 +30,7 @@ sudo apt install libarchive13 liblept5 poppler-utils
 ```
 5. **Run the application:**
 ```
-chmod +x *.sh *.py  # Configure permissions if necessary
+chmod +x *.sh *.py  # Configure permissions if necessary (IF NEED)
 ./start.sh
 ```
 7. **Connect the bot in Telegram:** find the bot by token and start interacting.
