@@ -27,7 +27,6 @@ git clone https://github.com/sensoryfox/SensoryBotLinuxoid.git
 ```
 cd SensoryBotLinux
 sudo apt install libarchive13 liblept5 poppler-utils
-pip install -r requirements.txt
 ```
 5. **Run the application:**
 ```
