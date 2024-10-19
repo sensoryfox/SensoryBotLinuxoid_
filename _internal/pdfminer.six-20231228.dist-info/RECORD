@@ -1,7 +1,7 @@
 ../../../bin/__pycache__/dumppdf.cpython-310.pyc,,
 ../../../bin/__pycache__/pdf2txt.cpython-310.pyc,,
-../../../bin/dumppdf.py,sha256=F7OmPtcvx8BsM1QUugFaBG4Rl2XVdfQnWrLkCEIKmtA,14312
-../../../bin/pdf2txt.py,sha256=DFKkQoMYoul_jPWTN7ElixMPeGt99VSI-7kX9SqJ6hc,9775
+../../../bin/dumppdf.py,sha256=thh0AX8nyb_EHBfHSSavUaT5FEY6PCxM0G93g6YFKNA,14302
+../../../bin/pdf2txt.py,sha256=PFQhl-1HSvIe7czdZTDTgjVM0-s8MmVURMF1L5xotVw,9765
 pdfminer.six-20231228.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 pdfminer.six-20231228.dist-info/LICENSE,sha256=8B5daZozdmtcr0pQmfKFarpPP3XqHfBdwFcrNLS-qPI,1093
 pdfminer.six-20231228.dist-info/METADATA,sha256=9kibOZETmxw6bBv0WM1zCUonrDSdgL1betsbgAwzow8,4160
