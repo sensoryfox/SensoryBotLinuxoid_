@@ -21,7 +21,7 @@ The installation process is as simple as possible:
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/sensorycube/SensoryBotLinux
+git clone https://github.com/sensoryfox/SensoryBotLinuxoid.git
 ```
 3. **Install dependencies:**
 ```
